@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenxinyugogo.github.io//sitemap.xml
+Sitemap: https://chenxinyugogo-sudo.github.io//sitemap.xml
