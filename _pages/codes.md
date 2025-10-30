@@ -31,8 +31,8 @@ See our Github site for relevant group codes:
 
 <div class="hf-embed">
   <iframe
-    title="MatterGPT Demo (Hugging Face Space)"
-    src="https://xiaohang07-MatterGPT-CPU.hf.space"
+    title="chenxinyugogo Demo (Hugging Face Space)"
+    src="https://Chenxinyu3-chenxinyugogo-CPU.hf.space"
     loading="lazy"
     allow="clipboard-write; microphone; camera; fullscreen"></iframe>
 </div>
